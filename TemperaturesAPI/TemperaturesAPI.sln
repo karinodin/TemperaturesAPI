@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperaturesAPI", "TemperaturesAPI\TemperaturesAPI.csproj", "{981A9CE7-CAA0-4996-9561-95B0A873932F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{981A9CE7-CAA0-4996-9561-95B0A873932F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981A9CE7-CAA0-4996-9561-95B0A873932F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981A9CE7-CAA0-4996-9561-95B0A873932F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981A9CE7-CAA0-4996-9561-95B0A873932F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
